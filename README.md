@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jyoti-ranjan-bit
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning btech cse with specialization internet of things 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by mail jrpadhi0302@gmail.com
 
 <!---
