@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyoti-ranjan-bit
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning btech cse with specialization internet of things 
-- 📫 To reach me by mail is jrpadhi0302@gmail.com
+- 📫 To reach me -jrpadhi0302@gmail.com
 
 <!---
 jyoti-ranjan-bit/jyoti-ranjan-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
