@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-ranjan-bit" alt="jyoti-ranjan-bit" /></a> </p>
 
-- 🔭 I’m currently working on [coffee mug animation](https://github.com/jyoti-ranjan-bit/coffee-mug-animation-)
+-  [coffee mug animation](https://github.com/jyoti-ranjan-bit/coffee-mug-animation-)
 
-- 👯 I’m looking to collaborate on [Hotstar clone](https://github.com/jyoti-ranjan-bit/hotstar-clone-)
+-  [Hotstar clone](https://github.com/jyoti-ranjan-bit/hotstar-clone-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
