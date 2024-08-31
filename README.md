@@ -10,10 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-ranjan-bit" alt="jyoti-ranjan-bit" /></a> </p>
 
--  [coffee mug animation](https://github.com/jyoti-ranjan-bit/coffee-mug-animation-)
-
--  [Hotstar clone](https://github.com/jyoti-ranjan-bit/hotstar-clone-)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/https://codesandbox.io/s/empty-violet-pd2xs7?file=/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/s/empty-violet-pd2xs7?file=/index.html" height="30" width="40" /></a>
